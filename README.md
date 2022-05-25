@@ -3,15 +3,16 @@
 ## Introduction
 As I begin my Freelance writing side-hustle this is the place where it all begins and will become a marketing aid to help share skills and capabilities.
 
-This is a place for me to link some writing pieces to showcase the types of work and projects completed.
+This is a place for me to link some writing pieces to showcase my work and projects completed.
 
 ### Services planned for the future
 
-- Proofreading
-- Copywriting
-- Content creation for websites and blogs
+- Proofreading (from $27/500 words)
+- Copywriting (from 6cents per word)
+- Content creation for websites and blogs (from 5cents per word, 250 minimum)
 - Data analysis
 - Data visualisation
+- Research projects
 - Cryptocurrency tutoring & how to's
 - CV review and advice
 - Virtual Assistance (Lifestyle and Travel)
@@ -30,11 +31,12 @@ This is a place for me to link some writing pieces to showcase the types of work
 1. Cryptocurrency (BTC preferred, but also ETH, USDC and many more besides)
 2. Direct Bank Deposits
 3. CareemPay
-4. Credit Cards (coming soon)
+4. Upwork smart contracts
+5. Credit Cards (coming soon)
 
 ### Areas of Publications
 
-Check out more blogs and posts at [publish0x.com](https:publish0x.com) where you can read and reward writers for free
+Check out more blogs and posts at [publish0x.com](https://www.publish0x.com) where you can read and reward writers for free
 
 ### Affiliates
 
