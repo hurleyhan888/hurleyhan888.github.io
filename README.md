@@ -1,26 +1,27 @@
-## Welcome to HurleyHan888 Github Pages
+# Welcome to HurleyHan888 Github Pages
+
+##Introduction
+This is a place for me to link some writing pieces so that you may see the types of work and projects that I have completed.  
+
+As I begin my Freelance writing side-hustle this is the place that it shall all begin and become a marketing aid to help share skills and capabilities.
 
 You can use the [editor on GitHub](https://github.com/hurleyhan888/hurleyhan888.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
-### Markdown
+### Services planned for the future
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
+- Proofreading
+- Copywriting
+- CV review and advice
+- Data analysis using advanced MS Excel Power Query
+- Data visualisation
+- MS Office
+- Google Workspace
 
 1. Numbered
 2. List
 
 **Bold** and _Italic_ and `Code` text
-
+```markdown
 [Link](url) and ![Image](src)
 ```
 
