@@ -28,6 +28,7 @@ I am based in the UAE which allows global clients to geoaribitrage their tasks, 
 4. Jupyter Notebooks
 5. Google Colaboratory
 6. Anaconda
+7. Github & GitPages
 `
 
 ### Payment Methods
@@ -48,7 +49,7 @@ Check out more blogs and posts at [publish0x.com](https://www.publish0x.com) whe
 
 [Buying Crypto Get 10% off your trading fees at Binance](https://accounts.binance.com/en/register?ref=D2WX7467)
 
-[Sign up and deposit $50 for 100USDT](https://www.binance.com/en/activity/referral/offers/claim?ref=CPA_005D0FSP5S)
+[Sign up and deposit $50 for 100USDT using Binance](https://www.binance.com/en/activity/referral/offers/claim?ref=CPA_005D0FSP5S)
 
 ### Support or Contact
 
